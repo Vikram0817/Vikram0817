@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vikram0817
-- 👀 I’m interested in data analytics, web development and designing.
-- 🌱 I’m currently learning coding to add on my skill set and grow my knowledge.
-- 💞️ I’m currently learning data analytics using python.
-- 🏆 My skills include - Web development, designing, graphics and video editing, data analytics, automation, web scrapping and much more!
-- ⚽ Hobbies - Fitness, Reading, Video Editing, Coding and Meditation.
+- 👀 Curruntly doing web dev.
+- 🌱 Always Learning
+- 💞️ I ❤️ JS
+- 🏆 My skills include - Web development, DSA (level-1) and alot idk.
+- ⚽ Hobbies - Workingout, Reading, Music and Meditation.
 - 📫 You can reach me through - vikramchaudhary8700@gmail.com or https://www.linkedin.com/in/vikram-chaudhary-73598a22b
