@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vikram0817
-- 👀 Curruntly doing web dev.
+- 👀 MERN stack.
 - 🌱 Always Learning
 - 💞️ I ❤️ crafting nice stuff!
-- 🏆 My skills include - Web development, DSA (level-1) and alot idk.
+- 🏆 Skills - Web development and DSA.
 - ⚽ Hobbies - Workingout, Reading, Music and Meditation.
 - 📫 You can reach me through - vikramchaudhary8700@gmail.com or https://www.linkedin.com/in/vikram-chaudhary-73598a22b
