@@ -11,8 +11,8 @@
 - Proficient in DSA, turning complex problems into elegant solutions.
 
 ⚙️ Tech Toolbox
-- Languages: JavaScript (React, Node.js), HTML, CSS.
-- Tools: VS Code, Git, MongoDB, Express.
+- Languages: JavaScript, React, HTML, CSS.
+- Tools: VS Code, Git, MongoDB, Express, Recoil, Tailwind.
 
 ⚽ Hobbies
 - Fueling my mind and body through workouts.
